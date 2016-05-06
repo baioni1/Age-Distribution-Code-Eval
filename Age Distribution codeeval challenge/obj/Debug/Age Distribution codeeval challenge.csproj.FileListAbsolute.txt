@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\bin\Debug\Age Distribution codeeval challenge.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\bin\Debug\Age Distribution codeeval challenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\bin\Debug\Age Distribution codeeval challenge.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\obj\Debug\Age Distribution codeeval challenge.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\obj\Debug\Age Distribution codeeval challenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Age Distribution codeeval challenge\Age Distribution codeeval challenge\obj\Debug\Age Distribution codeeval challenge.pdb
